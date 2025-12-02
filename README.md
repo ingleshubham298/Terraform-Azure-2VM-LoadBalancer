@@ -1,4 +1,4 @@
-# Project14 - Azure Load-Balanced Web Application Infrastructure
+**Terraform-Azure-2VM-LoadBalancer**
 
 ## Project Overview
 
@@ -234,7 +234,7 @@ After deployment, Terraform provides these outputs:
 
 ## Author & Version
 
-- **Project**: Project14 - Azure Load-Balanced Infrastructure
+- **Project**: Terraform-Azure-2VM-LoadBalancer
 - **IaC Tool**: Terraform
 - **Cloud Provider**: Microsoft Azure
 - **Region**: Central India
@@ -243,3 +243,4 @@ After deployment, Terraform provides these outputs:
 ---
 
 **Note**: This is a learning/development infrastructure. For production deployments, implement additional security hardening, monitoring, and compliance requirements specific to your organization.
+
