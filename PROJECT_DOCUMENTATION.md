@@ -1,4 +1,4 @@
-# Terraform Azure Load-Balanced Web Application Infrastructu
+# Terraform Azure Load-Balanced Web Application Infrastructure
 
 ## Project Overview
 
@@ -238,4 +238,5 @@ After deployment, Terraform provides these outputs:
 - **IaC Tool**: Terraform
 - **Cloud Provider**: Microsoft Azure
 - **Region**: Central India
+
 
