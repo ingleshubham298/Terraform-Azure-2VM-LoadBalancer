@@ -234,13 +234,8 @@ After deployment, Terraform provides these outputs:
 
 ## Author & Version
 
-- **Project**: Project14 - Azure Load-Balanced Infrastructure
+- **Project**: Terraform Azure Load-Balanced Infrastructure
 - **IaC Tool**: Terraform
 - **Cloud Provider**: Microsoft Azure
 - **Region**: Central India
-- **Last Updated**: December 2025
-
----
-
-**Note**: This is a learning/development infrastructure. For production deployments, implement additional security hardening, monitoring, and compliance requirements specific to your organization.
 
