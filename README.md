@@ -1,4 +1,4 @@
-# Terraform Azure Load-Balanced Web Application Infrastructu
+# Terraform Azure Load-Balanced Web Application Infrastructur
 
 ## Project Overview
 
@@ -205,7 +205,6 @@ After deployment, Terraform provides these outputs:
 ## Troubleshooting
 
 ### **Common Issues**
-
 1. **Cannot access application via public IP**
    - Verify VMs are running
    - Check health probe status
@@ -223,7 +222,6 @@ After deployment, Terraform provides these outputs:
    - Check Azure credentials are configured
 
 ## Future Enhancements
-
 - [ ] Implement Azure Application Gateway for Layer 7 load balancing
 - [ ] Add Azure Bastion for secure VM access
 - [ ] Configure auto-scaling with VM Scale Sets
@@ -233,15 +231,13 @@ After deployment, Terraform provides these outputs:
 - [ ] Implement backup and disaster recovery
 
 ## Author & Version
-
-- **Project**: Project14 - Azure Load-Balanced Infrastructure
+- **Project**: Terraform Azure Load-Balanced Infrastructure
 - **IaC Tool**: Terraform
 - **Cloud Provider**: Microsoft Azure
 - **Region**: Central India
 - **Last Updated**: December 2025
 
----
 
-**Note**: This is a learning/development infrastructure. For production deployments, implement additional security hardening, monitoring, and compliance requirements specific to your organization.
+
 
 
