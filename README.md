@@ -237,6 +237,12 @@ After deployment, Terraform provides these outputs:
 - **Region**: Central India
 - **Last Updated**: December 2025
 
+---
+
+**Author**: Shubham Ingle     
+**Last Updated**: December 2024  
+**Terraform Version**: >= 1.5.7  
+**Azure Provider Version**: ~> 4.0# terraform-azure-app-service
 
 
 
